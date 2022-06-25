@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @RBiazo51
+- 👀 I’m interested in all kinds of things.
+- 🌱 I’m currently learning linux! (Arch btw)
+- 📫 How to reach me: rbiazo51@gmail.com
