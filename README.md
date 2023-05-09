@@ -4,7 +4,7 @@ I’m interested in all kinds of things.
 
 Arch btw
 
-Homelab Details:
+HomeLab Details:
 
 1x PowerEdge R820
 
